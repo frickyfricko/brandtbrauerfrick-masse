@@ -36,7 +36,7 @@ export const tourData = [
 	},
 
 	{
-		date: 'October 25th',
+		date: 'October 24th',
 		location: 'Kaltern Pop - Kaltern, IT',
 		link: 'https://kalternpop.de/tickets-2019/'
 
