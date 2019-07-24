@@ -28,6 +28,12 @@ export const tourData = [
 		location: 'Haldern Pop Festival - Haldern, DE',
 		link: 'http://haldernpop.com/band/brandt-brauer-frick-de/'
 	},
+	
+	{
+		date: 'September 7th',
+		location: 'Riviera Festival - Offenbach, DE',
+		link: 'http://www.riviera-offenbach.de/'
+	},
 
 	{
 		date: 'October 17th',
@@ -43,7 +49,7 @@ export const tourData = [
 	},
 
 	{
-		date: 'October 25th',
+		date: 'October 24th',
 		location: 'Kaltern Pop - Kaltern, IT',
 		link: 'https://kalternpop.de/tickets-2019/'
 
